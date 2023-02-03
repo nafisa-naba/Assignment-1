@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(236, 211, 179);
+}
+
+.w{
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 190px;
+    
+}
+.c{
+    font-size: 50px;
+    color: rgb(210, 76, 76);
+}
+
+.img{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 130px;
+}
+.d1{
+    display: flex;
+}
+.our{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(3, 119, 251);
+}
+.cover{
+    margin:auto;
+    width: 250px;
+    background-color: rgb(177, 202, 249);
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+} 
+.cover h1{
+    text-align: center;
+    color: rgb(253, 6, 150);
+}
+.img2{
+    border-radius: 100px;
+    height: 100px;
+
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    
+}
+.d2{
+    padding: 100px;
+}
+.d3{
+    padding: 100px;
+}
+.d4{
+    padding: 100px;
+}
+.a{
+    text-align: center;
+    color: rgb(3, 119, 251);
+    font-size: 40px;
+}
+.pa{
+    text-align: left;
+    font-size: 20px;
+}
+.div5{
+    background-color: rgb(225, 131, 178);
+    padding: 40px;
+    border: 5px crimson dotted;
+}
+.t{
+    height: 300px;
+    width: 600px;
+}
+.team{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(3, 119, 251) ;
+    margin: 20px;
+}
+.para{
+    text-align: center;
+    font-size: 30px;
+}
+.div6{
+    display: flex;
+    padding: 40px;
+    border: 5px;
+    background-color: bisque;
+}
+
+footer{
+    padding: 20px;
+    background-color: black;
+}
+footer p{
+    text-align: center;
+    color: aliceblue;
+
+}
+
